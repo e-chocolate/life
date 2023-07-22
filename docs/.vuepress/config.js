@@ -8,6 +8,13 @@ module.exports = {
     themeConfig: {
         logo: '/heart.svg', // 配置导航栏logo(themeConfig.logo)
         author: 'Echlorine',
+        repo: 'https://github.com/Echlorine/life', // 仓库地址
+        lastUpdated: 'Last Updated', // 展示最后更新时间
+        // 编辑此页
+        editLinks: true,
+        docsDir: 'docs',
+        docsBranch: 'main',
+        editLinkText: '在 GitHub 上编辑此页',
         nav: [
             // 可指定链接跳转模式：默认target: '_blank'新窗口打开，_self当前窗口打开
             { text : '首页', link : '/' },
@@ -22,7 +29,6 @@ module.exports = {
             },
             { text : '时间轴', link : '/timeLine/', icon : 'reco-date' },
             { text : '关于', link : '/about/' },
-            { text : 'Github', link : 'https://github.com/Echlorine/life' }
         ],
         sidebar: {
             '/depression/' : [
@@ -44,5 +50,5 @@ module.exports = {
             ]
         },
         subSidebar: 'auto'
-      }
+    }
 }

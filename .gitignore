@@ -1,6 +1,4 @@
 node_modules
 docs/.vuepress/dist
-package.json
-*.sh
 *.log
 *.lock
