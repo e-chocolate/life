@@ -27,6 +27,7 @@ module.exports = {
                     { text : '吉林', link : '/travel/JL/' }
                 ]
             },
+            { text: '社会科学概论', link: '/SocialSciences/' },
             { text : '时间轴', link : '/timeLine/', icon : 'reco-date' },
             { text : '关于', link : '/about/' },
         ],
@@ -47,7 +48,12 @@ module.exports = {
                 '',
                 'CGQ',
                 'YNJ',
-            ]
+            ],
+            '/SocialSciences/': [
+                '',
+                'preface',
+                'booklist'
+            ],
         },
         subSidebar: 'auto'
     }
