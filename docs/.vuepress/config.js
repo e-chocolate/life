@@ -53,7 +53,8 @@ module.exports = {
                 '',
                 'preface',
                 'booklist',
-                'naturalScience'
+                'naturalScience',
+                'marxism'
             ],
         },
         subSidebar: 'auto'
