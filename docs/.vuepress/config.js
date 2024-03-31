@@ -52,7 +52,8 @@ module.exports = {
             '/SocialSciences/': [
                 '',
                 'preface',
-                'booklist'
+                'booklist',
+                'naturalScience'
             ],
         },
         subSidebar: 'auto'
