@@ -55,7 +55,9 @@ module.exports = {
                 'booklist',
                 'naturalScience',
                 'marxism',
-                'philosophy'
+                'philosophy',
+                'economics',
+                'summary'
             ],
         },
         subSidebar: 'auto'
