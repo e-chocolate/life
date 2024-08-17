@@ -1,6 +1,11 @@
 ---
 title: 第三讲 自然科学
-date: 2024-03-29
+createTime: 2024/03/29
+pageLayout: doc
+outline:
+  - 1
+  - 3
+author: Echlorine <echo_taken@126.com>
 ---
 
 ## 1. 数学

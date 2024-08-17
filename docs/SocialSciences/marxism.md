@@ -1,6 +1,11 @@
 ---
 title: 第四讲 马列主义、毛泽东思想
-date: 2024-03-30
+createTime: 2024/03/30
+pageLayout: doc
+outline:
+  - 1
+  - 3
+author: Echlorine <echo_taken@126.com>
 ---
 
 > 写在前面：

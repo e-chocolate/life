@@ -1,6 +1,11 @@
 ---
 title: 第五、六讲 哲学
-date: 2024-04-03
+createTime: 2024/04/03
+pageLayout: doc
+outline:
+  - 1
+  - 3
+author: Echlorine <echo_taken@126.com>
 ---
 
 > 写在前面：

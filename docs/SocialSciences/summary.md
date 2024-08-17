@@ -1,6 +1,11 @@
 ---
 title: 写在最后
-date: 2024-04-04
+createTime: 2024/04/04
+pageLayout: doc
+outline:
+  - 1
+  - 3
+author: Echlorine <echo_taken@126.com>
 ---
 
 社会科学是个很大的概念，主要研究人类社会及其种种联系，包括社会学、心理学、教育学等；

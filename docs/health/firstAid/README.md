@@ -1,6 +1,11 @@
 ---
-title: 常见急救方法
-date: 2023-01-24
+title: 急救小知识
+createTime: 2023/01/24
+pageLayout: 'doc'
+outline:
+  - 1
+  - 3
+author: Echlorine <echo_taken@126.com>
 ---
 
 # 常见急救方法

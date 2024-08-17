@@ -1,19 +1,19 @@
 {
   "name": "life",
-  "version": "1.0.2",
   "description": "Cherish Life",
+  "version": "1.1.0",
   "main": "index.js",
-  "scripts": {
-    "docs:dev": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs",
-    "docs:build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs"
-  },
   "repository": "git@github.com:Echlorine/life.git",
   "author": "Echlorine <echo_taken@126.com>",
   "license": "GPL-3.0",
-  "devDependencies": {
-    "vuepress": "^1.9.9"
+  "scripts": {
+    "docs:dev": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs",
+    "docs:build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs",
+    "docs:clean-dev": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs --clean-cache"
   },
-  "dependencies": {
-    "vuepress-theme-reco": "^1.6.17"
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.14",
+    "vuepress": "^2.0.0-rc.14",
+    "vuepress-theme-plume": "1.0.0-rc.86"
   }
 }

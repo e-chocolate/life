@@ -1,6 +1,11 @@
 ---
 title: 紧急情况处理方案
-date: 2023-01-24
+createTime: 2023/01/24
+pageLayout: doc
+outline:
+  - 1
+  - 3
+author: Echlorine <echo_taken@126.com>
 ---
 
 # 交通事故应急处理

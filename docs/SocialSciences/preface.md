@@ -1,6 +1,11 @@
 ---
 title: 第一讲 序言
-date: 2024-03-27
+createTime: 2024/03/27
+pageLayout: doc
+outline:
+  - 1
+  - 3
+author: Echlorine <echo_taken@126.com>
 ---
 
 ## 1. 本课程与社会科学学的关系
