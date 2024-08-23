@@ -43,7 +43,13 @@ export default defineUserConfig({
           },
         ],
       },
-      { text: "社会科学概论", link: "/SocialSciences/" },
+      {
+        text: "学习笔记",
+        items: [
+          { text: "社会科学概论", link: "/study/SocialSciences/" },
+          { text: "政治经济学", link: "/study/PoliticalEconomy/" },
+        ],
+      },
       { text: "关于", link: "/about/" },
     ],
     notes: false,
@@ -55,8 +61,8 @@ export default defineUserConfig({
         { text: "广东省", link: "GD" },
         { text: "香港特别新政区", link: "HK" },
       ],
-      "/SocialSciences/": [
-        { text: "笔记介绍", link: "preface" },
+      "/study/SocialSciences/": [
+        "",
         { text: "第一讲 序言", link: "preface" },
         { text: "第二讲 读书", link: "booklist" },
         { text: "第三讲 自然科学", link: "naturalScience" },
@@ -64,6 +70,9 @@ export default defineUserConfig({
         { text: "第五、六讲 哲学", link: "philosophy" },
         { text: "第十六讲 经济学", link: "economics" },
         { text: "写在最后", link: "summary" },
+      ],
+      "/study/PoliticalEconomy/": [
+        ""
       ],
     },
   }),
