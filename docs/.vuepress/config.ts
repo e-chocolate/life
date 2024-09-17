@@ -56,6 +56,7 @@ export default defineUserConfig({
     sidebar: {
       "/health/firstAid/": ["", "scenario"],
       "/travel/Asia/China/": [
+        { text: "湖南省", link: "HN" },
         { text: "吉林省", link: "JL" },
         { text: "江苏省", link: "JS" },
         { text: "广东省", link: "GD" },
@@ -71,9 +72,7 @@ export default defineUserConfig({
         { text: "第十六讲 经济学", link: "economics" },
         { text: "写在最后", link: "summary" },
       ],
-      "/study/PoliticalEconomy/": [
-        ""
-      ],
+      "/study/PoliticalEconomy/": [""],
     },
   }),
 });
