@@ -2,7 +2,7 @@
 pageLayout: "home"
 config:
   - type: banner
-    banner: https://api.pengzhanbo.cn/wallpaper/bing
+    banner: https://api.echocolate.xyz/api/bing
     bannerMask:
       light: 0.1
       dark: 0.3
