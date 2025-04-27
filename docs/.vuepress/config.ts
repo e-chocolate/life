@@ -3,7 +3,7 @@ import { viteBundler } from "@vuepress/bundler-vite";
 import { plumeTheme } from "vuepress-theme-plume";
 
 export default defineUserConfig({
-  port: 8081,
+  port: 59926,
   bundler: viteBundler(),
   lang: "zh-CN",
   title: "Life",
@@ -21,7 +21,7 @@ export default defineUserConfig({
       formatOptions: { dateStyle: "short", timeStyle: "short" },
     },
     editLink: true,
-    footer: { copyright: "©2021 - 2024 Echlorine" },
+    footer: { copyright: "©2021 - 2025 Echlorine" },
     navbar: [
       { text: "首页", link: "/" },
       {
