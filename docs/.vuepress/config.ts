@@ -72,7 +72,10 @@ export default defineUserConfig({
         { text: "第十六讲 经济学", link: "economics" },
         { text: "写在最后", link: "summary" },
       ],
-      "/study/PoliticalEconomy/": [""],
+      "/study/PoliticalEconomy/": [
+        "",
+        { text: "第一章 商品与货币", link: "Commodity_Money" },
+      ]
     },
   }),
 });
