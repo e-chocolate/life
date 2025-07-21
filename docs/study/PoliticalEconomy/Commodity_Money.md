@@ -1,3 +1,13 @@
+---
+title: 第一章 商品与货币
+createTime: 2025/05/09
+pageLayout: doc
+outline:
+  - 1
+  - 3
+author: Echo <echo@echocolate.xyz>
+---
+
 # 第一节 商品是资本主义经济的细胞
 
 商品是资本主义社会中最常见、最普遍的现象，是资本主义经济的最单纯、最基本的因素。
