@@ -5,7 +5,7 @@ pageLayout: doc
 outline:
   - 1
   - 3
-author: Echlorine <echo_taken@126.com>
+author: Echo <echo@echocolate.xyz>
 ---
 
 社会科学是个很大的概念，主要研究人类社会及其种种联系，包括社会学、心理学、教育学等；

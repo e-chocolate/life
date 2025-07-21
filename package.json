@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "main": "index.js",
   "repository": "git@github.com:Echlorine/life.git",
-  "author": "Echlorine <echo_taken@126.com>",
+  "author": "Echo <echo@echocolate.xyz>",
   "license": "GPL-3.0",
   "scripts": {
     "docs:dev": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs",

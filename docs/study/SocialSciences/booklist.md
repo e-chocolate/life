@@ -5,7 +5,7 @@ pageLayout: doc
 outline:
   - 1
   - 3
-author: Echlorine <echo_taken@126.com>
+author: Echo <echo@echocolate.xyz>
 ---
 
 > <font color="blue">*本讲是书单推荐，分享一下两个好用的图书/文献网站*：</font>

@@ -35,6 +35,10 @@ export default defineUserConfig({
         text: "旅游",
         items: [
           {
+            text: "签证",
+            link: "/travel/Visa/",
+          },
+          {
             text: "亚洲",
             items: [
               { text: "中国", link: "/travel/Asia/China/" },
@@ -55,6 +59,10 @@ export default defineUserConfig({
     notes: false,
     sidebar: {
       "/health/firstAid/": ["", "scenario"],
+      "/travel/Visa/": [
+        { text: "韩国", link: "KR" },
+        { text: "日本", link: "JP" },
+      ],
       "/travel/Asia/China/": [
         { text: "湖南省", link: "HN" },
         { text: "吉林省", link: "JL" },
@@ -75,7 +83,7 @@ export default defineUserConfig({
       "/study/PoliticalEconomy/": [
         "",
         { text: "第一章 商品与货币", link: "Commodity_Money" },
-      ]
+      ],
     },
   }),
 });

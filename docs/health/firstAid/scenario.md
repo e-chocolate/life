@@ -5,7 +5,7 @@ pageLayout: doc
 outline:
   - 1
   - 3
-author: Echlorine <echo_taken@126.com>
+author: Echo <echo@echocolate.xyz>
 ---
 
 # 交通事故应急处理

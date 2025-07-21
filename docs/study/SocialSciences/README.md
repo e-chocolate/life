@@ -5,7 +5,7 @@ pageLayout: 'doc'
 outline:
   - 1
   - 3
-author: Echlorine <echo_taken@126.com>
+author: Echo <echo@echocolate.xyz>
 ---
 
 　　本部分内容是对北京师范大学[陈志新](http://www.sg.bnu.edu.cn/szdw/xxglx/fjs_xxglx/d1fc4c77f9e04622823d0ad135aa96e9.htm)教授所开设的课程[社会科学概论](https://space.bilibili.com/1571561781/channel/collectiondetail?sid=2586487)所作的笔记。
