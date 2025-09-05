@@ -12,7 +12,7 @@ export default defineUserConfig({
   theme: plumeTheme({
     home: "/",
     logo: "/heart.svg",
-    docsRepo: "https://github.com/Echlorine/life",
+    docsRepo: "https://github.com/e-chocolate/life",
     docsBranch: "main",
     autoFrontmatter: false, // 是否自动填充
     docsDir: "docs",
@@ -21,7 +21,7 @@ export default defineUserConfig({
       formatOptions: { dateStyle: "short", timeStyle: "short" },
     },
     editLink: true,
-    footer: { copyright: "©2021 - 2025 Echlorine" },
+    footer: { copyright: "©2021 - 2025 Echocolate" },
     navbar: [
       { text: "首页", link: "/" },
       {
